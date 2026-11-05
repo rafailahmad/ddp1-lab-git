@@ -1,3 +1,4 @@
+print(=== Program Menyapa ===)
 nama = input("Masukkan nama: ")
 npm = input("Masukkan NPM: ")
 
